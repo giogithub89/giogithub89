@@ -36,8 +36,9 @@
 
 ## 📘 What's next?
 - Boostrap
-- MySql
-- Angular 
+- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;">
+- <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-ff0000.svg?logo=angular&logoColor=white"></a> 
+
 
 
 
