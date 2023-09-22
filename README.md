@@ -22,6 +22,7 @@
  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
  <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-ffc0cb.svg?logo=sass&logoColor=white"></a>
  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-5AC6F6.svg?logo=flutter&logoColor=white"></a>
+ <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-5AC6F6.svg?logo=nextdotjs&logoColor=white"></a>
  
  ## 💻 Software and tools
  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
